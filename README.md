@@ -20,7 +20,7 @@
 > 📧 **Email:** [aongsing565@gmail.com](mailto:aongsing565@gmail.com)
 
 > [!NOTE]
-> **Research:** co-author of the **Avian Biodiversity Dataset: Bird Species of Bangladesh**, published on Mendeley Data (Data in Brief). DOI: [10.17632/78gbtkv78v.2](https://doi.org/10.17632/78gbtkv78v.2)
+> **Research:** co-author of the **Avian Biodiversity Dataset: Bird Species of Bangladesh**, published on Mendeley Data (Data in Brief). DOI: [10.17632/78gbtkv78v.1](https://data.mendeley.com/datasets/78gbtkv78v/1)
 
 ---
 
@@ -50,7 +50,7 @@
 | PicknPack 📦 | Project I worked on during my internship at Software Lighthouse. | Flutter, Dart |
 | [CVD_Web 🫀](https://github.com/Aong-Sing-Marma/cvd_web) | A cardiovascular disease risk assessment web app using AI based predictions and real-time patient data analysis. | Next.js, React, Tailwind CSS, REST API |
 | [Veltrix 🛒](https://github.com/Aong-Sing-Marma/Veltrix-Ecommerce) | A responsive e-commerce site with product browsing, dynamic product pages, cart management and an interactive UI. | HTML5, CSS3, JavaScript, Font Awesome, Session Storage |
-| [Avian Bird Dataset 🐦](https://doi.org/10.17632/78gbtkv78v.2) | A research dataset of bird species images from Bangladesh, published on Mendeley Data. | Research, Machine Learning |
+| [Avian Bird Dataset 🐦](https://data.mendeley.com/datasets/78gbtkv78v/1) | A research dataset of bird species images from Bangladesh, published on Mendeley Data. | Research, Machine Learning |
 
 ---
 
