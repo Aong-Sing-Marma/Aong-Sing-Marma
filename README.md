@@ -1,70 +1,76 @@
-<h1 align="center">Hi, I'm Aong Sing Marma</h1>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AongSingMarma23)
 
-<p align="center">
-  <a href="mailto:aongsing565@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/AongSingMarma23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+#### Hello 👋 I'm Aong Sing Marma 💻
 
-I'm a CSE student at Daffodil International University and currently doing my software engineering internship at Software Lighthouse. I like building web apps end to end, usually starting with a rough design in Figma and then working my way to the frontend and backend.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&duration=9000&height=45&lines=Software+Engineer+%7C+Full-stack+%26+Flutter+Developer;CSE+Graduate+from+Daffodil+International+University;Building+clean+and+useful+web+and+mobile+apps" />
+</h3>
 
-### About me
+> [!TIP]
+> ### 🎓 CSE Graduate & Software Engineer
+>
+> 🎓 Graduated in **Computer Science & Engineering** from **Daffodil International University** (2022 - 2026).
+>
+> 💼 Currently working as a **Software Engineering Intern at Software Lighthouse** (since August 2026), contributing to **Texora360** and **PicknPack**.
+>
+> 🛠️ I build web and mobile apps with **React, Next.js, TypeScript, Node.js, Express and Flutter**, and I like designing the UI in **Figma** before I start coding.
+>
+> 🎯 Looking for a **full-time Software Engineer role** where I can keep growing and ship real products.
+>
+> 📧 **Email:** [aongsing565@gmail.com](mailto:aongsing565@gmail.com)
 
-- Intern at Software Lighthouse since August 2026, working on Texora360 and PicknPack
-- Co-author of a bird species dataset published on Mendeley Data (Data in Brief)
-- Solved 70+ problems on Beecrowd
-- Into both UI/UX design and full stack development
-- Based in Dhaka, Bangladesh
+> [!NOTE]
+> **Research:** co-author of the **Avian Biodiversity Dataset: Bird Species of Bangladesh**, published on Mendeley Data (Data in Brief). DOI: [10.17632/78gbtkv78v.2](https://doi.org/10.17632/78gbtkv78v.2)
 
-## Experience
+---
 
-**Software Engineering Intern, Software Lighthouse** (Aug 2026 - Present)
+#### 🚀 I work with
 
-- **Texora360:** Worked on building and improving features with the dev team.
-- **PicknPack:** Implemented features and fixed bugs across the app.
+![Languages & Frameworks](https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,dart,flutter,react,nextjs,nodejs,express,mysql,tailwind,bootstrap,html,css,git,github,vscode,figma)
 
-## Projects
+---
 
-**[CVD_Web](https://github.com/AongSingMarma23)**
-Cardiovascular disease risk assessment web app that uses AI based predictions and patient data analysis.
-Built with Next.js, React, TypeScript, Tailwind CSS and REST APIs.
+##### Code is poetry, and every commit tells a story
 
-**[Veltrix](https://github.com/AongSingMarma23)**
-Responsive e-commerce site with product pages, cart management and an interactive UI.
-Built with HTML, CSS, JavaScript and Session Storage.
+#### 💼 Experience
 
-## Publication
+* 🏢 **Software Engineering Intern at Software Lighthouse** (Aug 2026 - Present)
+* 🧵 **Texora360:** worked on building and improving features with the dev team
+* 📦 **PicknPack:** implemented features and fixed bugs across the app
+* 🧩 Solved **70+ problems** on Beecrowd
+* 🤝 Led and worked in teams on several technical projects at university
 
-**Avian Biodiversity Dataset: Bird Species of Bangladesh**
-Marma, A. S., Murad, M. M. A., Mojumdar, M. U. (2026). Mendeley Data, V2.
-DOI: [10.17632/78gbtkv78v.2](https://doi.org/10.17632/78gbtkv78v.2)
+---
 
-## Tech Stack
+#### 📱 My Key Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-</p>
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| Texora360 🧵 | Project I worked on during my internship at Software Lighthouse. | |
+| PicknPack 📦 | Project I worked on during my internship at Software Lighthouse. | |
+| [CVD_Web 🫀](https://github.com/AongSingMarma23) | A cardiovascular disease risk assessment web app using AI based predictions and real-time patient data analysis. | Next.js, React, TypeScript, Tailwind CSS, REST API |
+| [Veltrix 🛒](https://github.com/AongSingMarma23) | A responsive e-commerce site with product browsing, dynamic product pages, cart management and an interactive UI. | HTML5, CSS3, JavaScript, Font Awesome, Session Storage |
+| [Avian Bird Dataset 🐦](https://doi.org/10.17632/78gbtkv78v.2) | A research dataset of bird species images from Bangladesh, published on Mendeley Data. | Research, Machine Learning |
 
-## GitHub Stats
+---
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AongSingMarma23&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AongSingMarma23&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
+#### 🎯 Goals
 
-Looking for full time software engineering roles after my internship. Feel free to reach out.
+* 💼 Land a **full-time Software Engineer role** after my internship
+* 📱 Get better at **Flutter** and build production-ready mobile apps
+* 🛠️ Grow as a **full-stack developer** with stronger backend and database skills
+* 🎨 Keep improving my **UI/UX design** skills
+* 🤝 Contribute to open source projects
+
+---
+
+#### 🌐 Connect with me
+
+* 🐙 [GitHub](https://github.com/AongSingMarma23)
+* 📧 [Email](mailto:aongsing565@gmail.com)
+
+---
+
+#### 💬 Bangla & English 🇧🇩🌍
+
+> I enjoy learning new things and building technology that solves real problems.
