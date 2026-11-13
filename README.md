@@ -1,83 +1,70 @@
-<h1 align="center">Hi there, I'm Aong Sing Marma 👋</h1>
+<h1 align="center">Hi, I'm Aong Sing Marma</h1>
 
 <p align="center">
-  <a href="mailto:aongsing565@gmail.com"><img src="https://img.shields.io/badge/Email-aongsing565%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/AongSingMarma23"><img src="https://img.shields.io/badge/GitHub-AongSingMarma23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Add your LinkedIn link here if you have one:
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  -->
+  <a href="mailto:aongsing565@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/AongSingMarma23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center"><b>Mostly building, always learning.</b></p>
+I'm a CSE student at Daffodil International University and currently doing my software engineering internship at Software Lighthouse. I like building web apps end to end, usually starting with a rough design in Figma and then working my way to the frontend and backend.
 
----
+### About me
 
-🎓 I'm a **Computer Science & Engineering** student at **Daffodil International University** (2022 – 2026) and a **Software Engineering Intern at Software Lighthouse**, where I've been shipping real features on production projects since August 2026.
+- Intern at Software Lighthouse since August 2026, working on Texora360 and PicknPack
+- Co-author of a bird species dataset published on Mendeley Data (Data in Brief)
+- Solved 70+ problems on Beecrowd
+- Into both UI/UX design and full stack development
+- Based in Dhaka, Bangladesh
 
-I enjoy turning ideas into clean, usable web apps, from the UI in Figma all the way to the API and database behind it.
+## Experience
 
-### A little more about me
+**Software Engineering Intern, Software Lighthouse** (Aug 2026 - Present)
 
-- 💼 Interning at **Software Lighthouse** (Aug 2026 – present), working on **Texora360** and **PicknPack**
-- 📄 Published co-author of a research dataset in **Data in Brief / Mendeley Data**
-- 🧩 Solved **70+ problems** on Beecrowd and still going
-- 🎨 Comfortable on both sides: **UI/UX design** (Figma, Canva) and **full-stack development**
-- 🤝 Led and collaborated on several team projects at university
-- 📍 Based in Dhaka, Bangladesh
+- **Texora360:** Worked on building and improving features with the dev team.
+- **PicknPack:** Implemented features and fixed bugs across the app.
 
----
+## Projects
 
-## 💼 Experience
+**[CVD_Web](https://github.com/AongSingMarma23)**
+Cardiovascular disease risk assessment web app that uses AI based predictions and patient data analysis.
+Built with Next.js, React, TypeScript, Tailwind CSS and REST APIs.
 
-### Software Engineering Intern · Software Lighthouse
-*August 2026 – Present*
+**[Veltrix](https://github.com/AongSingMarma23)**
+Responsive e-commerce site with product pages, cart management and an interactive UI.
+Built with HTML, CSS, JavaScript and Session Storage.
 
-**🧵 Texora360**
-<!-- TODO: replace with 1–2 lines on what Texora360 is and what YOU built -->
-Worked on Texora360, building and improving features as part of the development team.
+## Publication
 
-**📦 PicknPack**
-<!-- TODO: replace with 1–2 lines on what PicknPack is and what YOU built -->
-Contributed to PicknPack, implementing features and fixing issues across the application.
-
----
-
-## 🚀 Featured Projects
-
-✨ **[CVD_Web: CVD Risk Assessment System](https://github.com/AongSingMarma23)**
-A web application for cardiovascular disease risk assessment, using AI-based predictions and real-time patient data analysis.
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `REST API`
-
-🛒 **[Veltrix: Premium E-commerce Experience](https://github.com/AongSingMarma23)**
-A responsive shopping platform with product browsing, dynamic product pages, cart management and interactive UI.
-`HTML5` · `CSS3` · `JavaScript` · `Font Awesome` · `Session Storage`
-
-<!-- Tip: replace the links above with the actual repo URLs -->
-
----
-
-## 📚 Publication
-
-📊 **Avian Biodiversity Dataset: Bird Species of Bangladesh**
-Marma, A. S., Murad, M. M. A., Mojumdar, M. U. (2026). *Mendeley Data*, V2.
+**Avian Biodiversity Dataset: Bird Species of Bangladesh**
+Marma, A. S., Murad, M. M. A., Mojumdar, M. U. (2026). Mendeley Data, V2.
 DOI: [10.17632/78gbtkv78v.2](https://doi.org/10.17632/78gbtkv78v.2)
 
----
+## Tech Stack
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/> </p>
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AongSingMarma23&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AongSingMarma23&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AongSingMarma23&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+## GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AongSingMarma23&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AongSingMarma23&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
----
-
-<p align="center">💬 Open to <b>full-time software engineering roles</b> after my internship. Feel free to reach out!</p>
+Looking for full time software engineering roles after my internship. Feel free to reach out.
