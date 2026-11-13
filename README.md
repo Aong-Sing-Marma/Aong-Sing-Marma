@@ -1,10 +1,8 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AongSingMarma23)
 
-#### Hello 👋 I'm Aong Sing Marma 💻
+#### Hello 👋 I'm Aong Sing Marma 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&duration=9000&height=45&lines=Software+Engineer+%7C+Full-stack+%26+Flutter+Developer;CSE+Graduate+from+Daffodil+International+University;Building+clean+and+useful+web+and+mobile+apps" />
-</h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&duration=9000&height=45&lines=Software+Engineer+%7C+Frontend+Developer;CSE+Graduate+from+Daffodil+International+University;Building+clean+and+useful+web+and+mobile+apps" /> </h3>
 
 > [!TIP]
 > ### 🎓 CSE Graduate & Software Engineer
