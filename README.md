@@ -1,6 +1,6 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AongSingMarma23)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Aong-Sing-Marma)
 
-#### Hello 👋 I'm Aong Sing Marma 
+#### Hello 👋 I'm Aong Sing Marma 💻
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&duration=9000&height=45&lines=Software+Engineer+%7C+Frontend+Developer;Graduate+from+Daffodil+International+University;Building+clean+and+useful+web+and+mobile+apps" />
@@ -13,7 +13,7 @@
 >
 > 💼 Currently working as a **Software Engineering Intern at Software Lighthouse** (since August 2026), contributing to **Texora360** and **PicknPack**.
 >
-> 🛠️ I build web and mobile apps with **React, Next.js, TypeScript, Node.js, Express and Flutter**, and I like designing the UI in **Figma** before I start coding.
+> 🛠️ I build web and mobile apps with **React, Next.js, Node.js, Express and Flutter**, and I like designing the UI in **Figma** before I start coding.
 >
 > 🎯 Looking for a **full-time Software Engineer role** where I can keep growing and ship real products.
 >
@@ -26,7 +26,7 @@
 
 #### 🚀 I work with
 
-![Languages & Frameworks](https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,dart,flutter,react,nextjs,nodejs,express,go,postgres,mysql,tailwind,bootstrap,html,css,git,github,vscode,figma)
+![Languages & Frameworks](https://skillicons.dev/icons?i=python,javascript,c,cpp,dart,flutter,react,nextjs,nodejs,express,go,postgres,mysql,tailwind,bootstrap,html,css,git,github,vscode,figma)
 
 ---
 
@@ -48,8 +48,8 @@
 | ------- | ----------- | ----- |
 | Texora360 🧵 | Project I worked on during my internship at Software Lighthouse. | Flutter, Dart, Go, PostgreSQL, pgAdmin |
 | PicknPack 📦 | Project I worked on during my internship at Software Lighthouse. | Flutter, Dart |
-| [CVD_Web 🫀](https://github.com/AongSingMarma23/cvd_web) | A cardiovascular disease risk assessment web app using AI based predictions and real-time patient data analysis. | Next.js, React, TypeScript, Tailwind CSS, REST API |
-| [Veltrix 🛒](https://github.com/AongSingMarma23) | A responsive e-commerce site with product browsing, dynamic product pages, cart management and an interactive UI. | HTML5, CSS3, JavaScript, Font Awesome, Session Storage |
+| [CVD_Web 🫀](https://github.com/Aong-Sing-Marma/cvd_web) | A cardiovascular disease risk assessment web app using AI based predictions and real-time patient data analysis. | Next.js, React, Tailwind CSS, REST API |
+| [Veltrix 🛒](https://github.com/Aong-Sing-Marma/Veltrix-Ecommerce) | A responsive e-commerce site with product browsing, dynamic product pages, cart management and an interactive UI. | HTML5, CSS3, JavaScript, Font Awesome, Session Storage |
 | [Avian Bird Dataset 🐦](https://doi.org/10.17632/78gbtkv78v.2) | A research dataset of bird species images from Bangladesh, published on Mendeley Data. | Research, Machine Learning |
 
 ---
@@ -66,7 +66,7 @@
 
 #### 🌐 Connect with me
 
-* 🐙 [GitHub](https://github.com/AongSingMarma23)
+* 🐙 [GitHub](https://github.com/Aong-Sing-Marma)
 * 📧 [Email](mailto:aongsing565@gmail.com)
 
 ---
